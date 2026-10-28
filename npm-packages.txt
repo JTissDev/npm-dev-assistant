@@ -1,0 +1,9 @@
+WebPack|webpack --save-dev|webP|none
+TypeScript|typescript @types/node|ts|test: /\.tsx?$/, use: 'ts-loader'
+Tailwind CSS|tailwindcss postcss autoprefixer|tail|none
+Sass (SCSS)|sass|scss|test: /\.scss$/, use: ['style-loader', 'css-loader', 'sass-loader']
+Bootstrap|bootstrap|boot|none
+React Router DOM|react-router-dom|router|none
+Axios|axios|axios|none
+Chart.js|chart.js|chart|none
+Plotty|plotty.js|plot|none
